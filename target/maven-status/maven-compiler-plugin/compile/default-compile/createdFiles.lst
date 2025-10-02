@@ -1,0 +1,7 @@
+com\mycompany\superheroesjpa\entity\SuperHeroe.class
+com\mycompany\superheroesjpa\entity\Universo.class
+com\mycompany\superheroesjpa\util\JpaUtil.class
+com\mycompany\superheroesjpa\dao\SuperHeroeDAO.class
+com\mycompany\superheroesjpa\interfaces\ISuperHeroeDAO.class
+com\mycompany\superheroesjpa\JPASuperHeroe.class
+com\mycompany\superheroesjpa\entity\IdentidadSecreta.class
